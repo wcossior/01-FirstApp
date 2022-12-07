@@ -21,17 +21,10 @@ export const CounterScreen = () => {
                 position='bl'
                 onPress={() => setContador(contador - 1)}
             />
-            {/* <TouchableOpacity
-                style={styles.fabLocationBL}
-                onPress={() => setContador(contador - 1)}
-            >
-                <View style={styles.floatingActionButton}>
-                    <Text style={styles.fabText}> -1 </Text>
-                </View>
-            </TouchableOpacity> */}
         </View>
     )
 }
+
 const styles = StyleSheet.create({
     container: {
         flex: 1,
