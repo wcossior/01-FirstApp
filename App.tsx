@@ -6,6 +6,7 @@ import { DimensionsScreen } from './src/screens/DimensionsScreen';
 import { FlexScreen } from './src/screens/FlexScreen';
 import { HolaMundoScreen } from './src/screens/HolaMundoScreen';
 import { PositionScreen } from './src/screens/PositionScreen';
+import { TareaScreen } from './src/screens/TareaScreen';
 
 export const App = () => {
     return (
@@ -15,7 +16,8 @@ export const App = () => {
             {/* <BoxObjectModelScreen /> */}
             {/* <DimensionsScreen /> */}
             {/* <PositionScreen /> */}
-            <FlexScreen />
+            {/* <FlexScreen /> */}
+            <TareaScreen />
         </SafeAreaView>
     )
 }
