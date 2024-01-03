@@ -15,4 +15,4 @@ The FirstApp is a React Native application written in TypeScript (`.tsx`). This 
 ## Usage
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/wcossior/01-FirstApp/tree/master
+   git clone https://github.com/wcossior/01-FirstApp
